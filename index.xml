@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>勇敢牛牛 不怕困难</title>
+    <link>https://yuexian1234.github.io/</link>
+    <description>Recent content on 勇敢牛牛 不怕困难</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Apr 2022 21:51:33 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2022 21:51:33 +0800</lastBuildDate><atom:link href="https://yuexian1234.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello2</title>
-      <link>http://example.org/posts/hello2/</link>
+      <link>https://yuexian1234.github.io/posts/hello2/</link>
       <pubDate>Sun, 24 Apr 2022 21:51:33 +0800</pubDate>
       
-      <guid>http://example.org/posts/hello2/</guid>
+      <guid>https://yuexian1234.github.io/posts/hello2/</guid>
       <description>注册中心  eureka ap Zookeeper consul cp nacos支持cp或者ap  Issue  ap 意味着你可能拿到一些脏数据。cp 意味着你可能拿不到数据 目前趋势是，注册中心健康检测功能正在弱化，逐步由业务代码集成的sdk来做健康检测，因为大量注册信息的同步有一定的延迟。此时看来，ap可能更有优势。 CAP定理，BASE理论，一致性协议2PC/3PC/ZAB https://cloud.tencent.com/developer/article/1763152  </description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://yuexian1234.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 24 Apr 2022 21:48:02 +0800</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://yuexian1234.github.io/posts/my-first-post/</guid>
       <description>一级标题 二级标题 三级标题  1 2 3  </description>
     </item>
     
